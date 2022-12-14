@@ -1,0 +1,2 @@
+# ESOadd
+ESO addons library
